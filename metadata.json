@@ -1,0 +1,6 @@
+{
+  "name": "MetroTerra 3D: City & Region Simulator",
+  "description": "เกมวางผังเมืองและบริหารจัดการทรัพยากร 3 มิติแนว SimCity 4 + Cities: Skylines หมุนมุมกล้อง 360° ปรับแต่งภูมิภาค (32x32, 48x48, 64x64) พร้อมระบบ Mod เสริมและติดตั้งบน PC (PWA)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

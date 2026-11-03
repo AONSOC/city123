@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0b131e"/>
+  <path d="M64 384 L448 384 L416 432 L96 432 Z" fill="#0284c7"/>
+  <path d="M88 352 L424 352 L448 384 L64 384 Z" fill="#10b981"/>
+  <!-- City Skyline Towers -->
+  <rect x="116" y="210" width="56" height="142" fill="#334155" stroke="#94a3b8" stroke-width="4"/>
+  <rect x="184" y="130" width="68" height="222" fill="#0f172a" stroke="#38bdf8" stroke-width="5"/>
+  <polygon points="184,130 218,86 252,130" fill="#0284c7"/>
+  <rect x="264" y="168" width="64" height="184" fill="#1e293b" stroke="#34d399" stroke-width="4"/>
+  <rect x="340" y="232" width="52" height="120" fill="#334155" stroke="#fbbf24" stroke-width="4"/>
+  <!-- Windows -->
+  <g fill="#fde047">
+    <rect x="132" y="232" width="10" height="14"/>
+    <rect x="148" y="232" width="10" height="14"/>
+    <rect x="132" y="260" width="10" height="14"/>
+    <rect x="148" y="260" width="10" height="14"/>
+    <rect x="202" y="152" width="12" height="16"/>
+    <rect x="222" y="152" width="12" height="16"/>
+    <rect x="202" y="182" width="12" height="16"/>
+    <rect x="222" y="182" width="12" height="16"/>
+    <rect x="202" y="212" width="12" height="16"/>
+    <rect x="222" y="212" width="12" height="16"/>
+    <rect x="282" y="192" width="12" height="14"/>
+    <rect x="302" y="192" width="12" height="14"/>
+    <rect x="282" y="220" width="12" height="14"/>
+    <rect x="302" y="220" width="12" height="14"/>
+  </g>
+</svg>
