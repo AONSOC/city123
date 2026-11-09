@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for removing parked cars from contextual lot props, preventing overlap with building floors/stairs/steps, enabling automatic contextual props for newly imported 3D Mod buildings, adding a full 1x1 concrete ground slab to the Metropolitan Police Station, and expanding context-aware props across utility and civic structures.",
+  "updatedAt":  "2026-11-09T19:06:52.344376493Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
