@@ -15,9 +15,9 @@ export default defineConfig(() => {
         includeAssets: ['icon.svg', 'apple-touch-icon.png', 'pwa-192x192.png', 'pwa-512x512.png', 'pwa-maskable-512x512.png'],
         manifest: {
           id: './',
-          name: 'MetroTerra 3D: City & Region Simulator',
-          short_name: 'MetroTerra',
-          description: 'เกมวางผังเมืองและบริหารจัดการทรัพยากร 3 มิติแนว SimCity 4 + Cities: Skylines รองรับ WebGL และระบบ Mod เสริม',
+          name: 'มหานครเนรมิต 3D: เกมวางผังมหานครและบริหารทรัพยากร',
+          short_name: 'มหานครเนรมิต 3D',
+          description: 'เกมวางผังเมืองและบริหารจัดการทรัพยากร 3 มิติแนว รองรับ WebGL และระบบ Mod เสริม',
           theme_color: '#0b131e',
           background_color: '#0b131e',
           display: 'standalone',
@@ -80,8 +80,7 @@ export default defineConfig(() => {
           ],
         },
         devOptions: {
-          enabled: true,
-          type: 'module',
+          enabled: false,
         },
       }),
     ],
